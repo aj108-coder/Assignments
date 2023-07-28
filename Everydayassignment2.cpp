@@ -28,8 +28,8 @@ int main()
     //int num = rand() %  15  ; // 0 to 15
 int num;
     int length;  
-    printf("Enter the length of string what you want : ");
-        scanf("%d", &length); 
+  cout<<"Enter the length of string what you want : ";
+       cin>>length;
 
     char temp[length+1]; 
 
